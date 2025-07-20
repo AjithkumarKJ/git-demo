@@ -11,4 +11,8 @@ public class GitTest {
     {
         System.out.println("Checked merge from GitBash");
     }
+    void test2()
+    {
+        System.out.println("To check branch rules");
+    }
 }
